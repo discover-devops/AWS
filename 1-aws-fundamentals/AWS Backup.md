@@ -2,6 +2,11 @@
 
 **AWS Backup** is a fully managed service that allows you to automate and centrally manage backups across AWS services. It simplifies the process of configuring, scheduling, and monitoring backups, making it easier to meet your organization's data protection and compliance needs.
 
+
+
+![image](https://github.com/user-attachments/assets/de76ebcb-dbc8-4a31-b447-f2ebb44b82f4)
+
+
 ### **1. Introduction to AWS Backup**
 
 **AWS Backup** enables you to:
