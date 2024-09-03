@@ -1,4 +1,4 @@
-### list of topics and subtopics for your AWS Solution Architect Professional and AWS DevOps Professional combined course. This course outline starts from the basics and progresses to advanced topics, covering both theoretical concepts and practical labs.
+### AWS Solution Architect Professional and AWS DevOps Professional combined course. 
 
 ### **1. Introduction to Cloud Computing**
    - **1.1 What is Cloud Computing?**
