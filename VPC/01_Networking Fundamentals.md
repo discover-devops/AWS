@@ -99,3 +99,5 @@ There are two main versions of IP addresses: **IPv4** and **IPv6**.
 Let’s say you’re running a company with an internal network. You’ve been assigned the **192.168.1.0/24** network. This means you can assign IP addresses ranging from **192.168.1.1** to **192.168.1.254** to devices within your network, and **192.168.1.255** is reserved for broadcasting.
 
 By breaking this into smaller subnets, such as **192.168.1.0/26**, you can create smaller groups with a limited number of devices. **/26** allows for 62 usable host addresses in each subnet (2 bits reserved for network and broadcast addresses).
+
+Refrence: https://www.site24x7.com/tools/ipv4-subnetcalculator.html
