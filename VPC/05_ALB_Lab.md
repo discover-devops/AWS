@@ -1,6 +1,6 @@
-### **Lab: Configuring Path-Based Routing with AWS Network Load Balancer (NLB)**
+### **Lab: Configuring Path-Based Routing with AWS Application Load Balancer (NLB)**
 
-In this lab, we will demonstrate how to configure **Path-based routing** using an **Application Load Balancer (ALB)**, as **Network Load Balancer (NLB)** doesn't support path-based routing (it operates at Layer 4). However, the steps below will guide you to set up an **ALB** with multiple EC2 instances as targets for different path-based routing rules. If no path is provided, the default page will be served.
+In this lab, we will demonstrate how to configure **Path-based routing** using an **Application Load Balancer (ALB)**, the below steps will guide you to set up an **ALB** with multiple EC2 instances as targets for different path-based routing rules. If no path is provided, the default page will be served.
 
 ---
 
