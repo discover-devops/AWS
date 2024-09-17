@@ -34,25 +34,7 @@ In this lab, we will demonstrate how to configure **Path-based routing** using a
    yum install -y httpd
    systemctl start httpd
    systemctl enable httpd
-   echo "<html><body><h1>Welcome to Application 1</h1></body></html>" > /var/www/html/index.html
-
-UBNTU
-#!/bin/bash
-# Update the package repository
-apt-get update -y
-
-# Install Apache HTTP Server
-apt-get install -y apache2
-
-# Start the Apache service
-systemctl start apache2
-
-# Enable Apache to start on boot
-systemctl enable apache2
-
-# Create a simple default webpage
-echo "<html><body><h1>Welcome to Application 1</h1></body></html>" > /var/www/html/index.html
-
+   echo "<html><body><h1>Welcome to Application 1</h1></body></html>" > /var/www/html/index.htm
 
    ```
 
