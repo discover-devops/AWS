@@ -144,49 +144,4 @@ By following these steps, you can host any static website using Amazon S3, takin
 Let me know if you need further assistance or more advanced configurations!
 
 
----
-** Sample Index.html **
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Static Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            color: #333;
-            margin-top: 20px;
-        }
-        img {
-            max-width: 300px;
-            height: auto;
-            margin: 20px;
-            border: 2px solid #ccc;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My Static Website</h1>
-    <p>Here are the images of coffee and the beach.</p>
-
-    <div>
-        <h2>Coffee</h2>
-        <img src="coffee.jpg" alt="Coffee Image">
-    </div>
-
-    <div>
-        <h2>Beach</h2>
-        <img src="beach.jpg" alt="Beach Image">
-    </div>
-</body>
-</html>
 
