@@ -1,4 +1,4 @@
-No, **Amazon EFS (Elastic File System)** is not natively supported on **Windows EC2 instances**. EFS uses the **NFS (Network File System)** protocol, which is primarily a Unix/Linux protocol. Windows does not support NFS as efficiently as Linux-based systems, so EFS cannot be directly mounted on Windows instances.
+**Amazon EFS (Elastic File System)** is not natively supported on **Windows EC2 instances**. EFS uses the **NFS (Network File System)** protocol, which is primarily a Unix/Linux protocol. Windows does not support NFS as efficiently as Linux-based systems, so EFS cannot be directly mounted on Windows instances.
 
 ### **Alternative for Windows Instances**
 
