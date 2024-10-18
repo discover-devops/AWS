@@ -14,6 +14,13 @@ Before starting this lab, make sure you have:
 - AWS account access with required permissions to create VPCs, subnets, EC2 instances, and Transit Gateway.
 - Familiarity with basic VPC concepts like route tables, subnets, and EC2 instances.
 
+
+![image](https://github.com/user-attachments/assets/587c1733-088a-4a8b-9759-eb3f11ebe610)
+
+
+
+
+
 ### Step-by-Step Lab Instructions:
 
 #### Step 1: Create VPCs and Subnets
