@@ -1,5 +1,5 @@
 
-#  STEP 2.3 — Internet Gateway + Route Table
+#  STEP 2 — Internet Gateway + Route Table
 
 ##  Goal
 
